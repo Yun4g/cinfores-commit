@@ -1122,7 +1122,7 @@ body{
   nav{
   background-color: #000a32;
   padding: 20px;
-  width: 1000px;
+
  }
 .aside{
   display: none;
@@ -1145,6 +1145,7 @@ main{
 .hero-section{
   padding: 0;
   height: 80vh;
+  width: 500px;
   /* width: 367px; */
 }
 
