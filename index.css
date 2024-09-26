@@ -1114,6 +1114,7 @@ footer {
 
 @media screen and (max-width: 500px) {
 body{
+  background-color: #04218b;
   padding-left: 9px;
 }
 .first-section{
